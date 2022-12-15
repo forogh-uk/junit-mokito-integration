@@ -1,0 +1,3 @@
+com\unittesting\unit\testing\UnitTestingApplication.class
+com\unittesting\unit\testing\business\BusinessSimpleImpl.class
+com\unittesting\unit\testing\data\SomeDataService.class
